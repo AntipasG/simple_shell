@@ -51,5 +51,3 @@ $
 - `execute_builtin_exit.c`: File containing the function to execute the `exit` built-in command.
 - `execute_builtin_env.c`: File containing the function to execute the `env` built-in command.
 - `execute_command.c`: File containing the main function to execute commands.
-
-Feel free to modify this README as needed for additional details or project-specific information.
