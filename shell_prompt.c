@@ -1,9 +1,10 @@
 #include "shell.h"
 
 /**
- *shell_prompt - the shell prompt
+ *shell_prompt - the displayed prompt
  *
- *Return: vode
+ *
+ *Return: void
  **/
 
 void shell_prompt(void)
